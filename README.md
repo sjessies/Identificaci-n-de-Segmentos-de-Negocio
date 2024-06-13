@@ -23,6 +23,7 @@ Crear un sistema de identificación de territorios de interés empresarial utili
   - **raw/**: Datos sin procesar.
     - **Forbes_2000_2023_all_companies.xlsx**: Archivo Excel con información de las compañías.
   - **processed/**: Datos procesados.
+    - **companies_base_1763.csv**: Archivo CSV con datos procesados de las compañías.
   - **external/**: Datos de fuentes externas.
 - **notebooks/**: Notebooks de Jupyter.
   - **exploratory/**: Análisis exploratorio de datos.
