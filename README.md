@@ -25,9 +25,11 @@ Crear un sistema de identificación de territorios de interés empresarial utili
   - **processed/**: Datos procesados.
     - **companies_base_1763.csv**: Archivo CSV con datos procesados de las compañías.
   - **external/**: Datos de fuentes externas.
+    - **Diccionario de datos.xlsx**: Archivo Excel con el diccionario de datos para seleccionar características.
 - **notebooks/**: Notebooks de Jupyter.
   - **exploratory/**: Análisis exploratorio de datos.
     - **companies_info_scraping_notebook.ipynb**: Notebook para scraping de información usando Beautiful Soup.
+    - **EDA_Imputacion_Datos.ipynb**: Notebook para EDA y la imputación de datos nulos.
   - **final/**: Notebooks finales con resultados principales.
 - **reports/**: Reportes y figuras generadas.
   - **figures/**: Imágenes y gráficos.
