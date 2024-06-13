@@ -21,10 +21,12 @@ Crear un sistema de identificación de territorios de interés empresarial utili
 ## Estructura del Repositorio
 - **data/**: Contiene los conjuntos de datos.
   - **raw/**: Datos sin procesar.
+    - **Forbes_2000_2023_all_companies.xlsx**: Archivo Excel con información de las compañías.
   - **processed/**: Datos procesados.
   - **external/**: Datos de fuentes externas.
 - **notebooks/**: Notebooks de Jupyter.
   - **exploratory/**: Análisis exploratorio de datos.
+    - **companies_info_scraping_notebook.ipynb**: Notebook para scraping de información usando Beautiful Soup.
   - **final/**: Notebooks finales con resultados principales.
 - **reports/**: Reportes y figuras generadas.
   - **figures/**: Imágenes y gráficos.
@@ -42,4 +44,3 @@ Guía para contribuir al proyecto.
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
-

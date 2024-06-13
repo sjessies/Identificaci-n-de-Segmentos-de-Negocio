@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+trabajo-grados/
 
 # Spyder project settings
 .spyderproject
