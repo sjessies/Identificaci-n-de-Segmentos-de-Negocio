@@ -1,0 +1,1 @@
+{"exchange": "NMS", "quoteType": "ECNQUOTE", "symbol": "WN", "underlyingSymbol": "WN", "firstTradeDateEpochUtc": 1453905000, "timeZoneFullName": "America/New_York", "timeZoneShortName": "EDT", "uuid": "c6a0e7c2-e78c-3d7f-8243-13cb92b897a3", "gmtOffSetMilliseconds": -14400000, "maxAge": 86400, "trailingPegRatio": null}

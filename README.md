@@ -22,8 +22,10 @@ Crear un sistema de identificación de territorios de interés empresarial utili
 - **data/**: Contiene los conjuntos de datos.
   - **raw/**: Datos sin procesar.
     - **Forbes_2000_2023_all_companies.xlsx**: Archivo Excel con información de las compañías.
+    - **df_for_EDA_full_tickers.xlsx**: Archivo Excel con tickers para EDA.
   - **processed/**: Datos procesados.
     - **companies_base_1763.csv**: Archivo CSV con datos procesados de las compañías.
+    - **df_datos_financieros_final.csv**: Archivo CSV con datos financieros finales después de la imputación.
   - **external/**: Datos de fuentes externas.
     - **Diccionario de datos.xlsx**: Archivo Excel con el diccionario de datos para seleccionar características.
 - **notebooks/**: Notebooks de Jupyter.
@@ -33,6 +35,7 @@ Crear un sistema de identificación de territorios de interés empresarial utili
   - **final/**: Notebooks finales con resultados principales.
 - **reports/**: Reportes y figuras generadas.
   - **figures/**: Imágenes y gráficos.
+- **ticker_data_1760/**: Carpeta para guardar la información descargada usando yfinance.
 - **docs/**: Documentación del proyecto.
   - **additional_docs/**: Documentación adicional.
 

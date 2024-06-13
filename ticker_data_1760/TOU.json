@@ -1,0 +1,1 @@
+{"exchange": "NMS", "quoteType": "ECNQUOTE", "symbol": "TOU", "underlyingSymbol": "TOU", "firstTradeDateEpochUtc": 1194618600, "timeZoneFullName": "America/New_York", "timeZoneShortName": "EDT", "uuid": "8cf14857-8622-39f5-82c9-373d2f167640", "gmtOffSetMilliseconds": -14400000, "maxAge": 86400, "trailingPegRatio": null}

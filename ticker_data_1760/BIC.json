@@ -1,0 +1,1 @@
+{"exchange": "NMS", "quoteType": "ECNQUOTE", "symbol": "BIC", "underlyingSymbol": "BIC", "firstTradeDateEpochUtc": 1341581400, "timeZoneFullName": "America/New_York", "timeZoneShortName": "EDT", "uuid": "bec758a8-de99-338d-9608-7f2196b48103", "gmtOffSetMilliseconds": -14400000, "maxAge": 86400, "trailingPegRatio": null}
