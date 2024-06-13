@@ -26,8 +26,11 @@ Crear un sistema de identificación de territorios de interés empresarial utili
   - **processed/**: Datos procesados.
     - **companies_base_1763.csv**: Archivo CSV con datos procesados de las compañías.
     - **df_datos_financieros_final.csv**: Archivo CSV con datos financieros finales después de la imputación.
+    - **df_segmentos.csv**: Archivo CSV con los segmentos de negocio.
+    - **datos_finales.csv**: Archivo CSV con datos finales para modelos de clasificación.
   - **external/**: Datos de fuentes externas.
     - **Diccionario de datos.xlsx**: Archivo Excel con el diccionario de datos para seleccionar características.
+    - **Homologación Segmentos.xlsx**: Archivo Excel para homologar nombres y datos de los segmentos.
 - **notebooks/**: Notebooks de Jupyter.
   - **exploratory/**: Análisis exploratorio de datos.
     - **companies_info_scraping_notebook.ipynb**: Notebook para scraping de información usando Beautiful Soup.
