@@ -36,6 +36,8 @@ Crear un sistema de identificación de territorios de interés empresarial utili
     - **companies_info_scraping_notebook.ipynb**: Notebook para scraping de información usando Beautiful Soup.
     - **EDA_Imputacion_Datos.ipynb**: Notebook para EDA y la imputación de datos nulos.
   - **final/**: Notebooks finales con resultados principales.
+    - **clasificación_multietiqueta.ipynb**: Notebook para el modelo de clasificación multi-etiqueta.
+    - **clasificación_simple.ipynb**: Notebook para el modelo de clasificación simple.
 - **reports/**: Reportes y figuras generadas.
   - **figures/**: Imágenes y gráficos.
 - **ticker_data_1760/**: Carpeta para guardar la información descargada usando yfinance.
