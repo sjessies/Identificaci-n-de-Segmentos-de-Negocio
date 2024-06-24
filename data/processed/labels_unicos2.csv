@@ -1,0 +1,1142 @@
+ID;Label;Definition
+1;Consumer Banking; Banking services for individual customers, including deposits, loans, and credit cards.
+2;Digital Banking; Online and mobile banking services allowing customers to manage their accounts digitally.
+3;Cryptocurrency Services; Financial services related to digital currencies, including exchanges and wallets.
+4;Renewable Energy; Production of energy from sustainable sources like wind, solar, and hydro.
+5;Energy Storage; Technologies for storing energy, such as batteries and pumped hydro storage.
+6;Investment Banking; Financial services that assist companies in raising capital and provide advisory services.
+7;Fintech Services; Technology-driven financial services, including payment processing and online lending.
+8;Asset Management; Professional management of investments on behalf of clients.
+9;Rural Development; Initiatives aimed at improving the economic and social well-being of rural communities.
+10;Commercial Banking; Banking services for businesses, including loans, deposits, and treasury management.
+11;Artificial Intelligence; Technologies that enable machines to perform tasks that typically require human intelligence.
+12;Autonomous Vehicles; Vehicles capable of driving themselves without human intervention.
+13;Carbon Capture and Storage; Technologies to capture and store carbon dioxide emissions to mitigate climate change.
+14;Quantum Computing; Advanced computing technology based on quantum mechanics principles.
+15;Wearables; Smart electronic devices worn on the body, like fitness trackers and smartwatches.
+16;Augmented Reality; Technology that overlays digital information onto the real world.
+17;Hydrogen Fuel Cells; Devices that generate electricity through a chemical reaction between hydrogen and oxygen.
+18;Mobile Devices; Portable electronic devices such as smartphones and tablets.
+19;Internet of Things; Network of interconnected devices that can collect and exchange data.
+20;Digital Health; Use of digital technologies to improve health and healthcare services.
+21;Data Analytics; Analysis of data to extract useful insights and inform decision-making.
+22;Wealth Management; Financial advisory services that help clients manage and grow their wealth.
+23;5G Networks; The fifth generation of mobile network technology, offering faster speeds and more reliable connections.
+24;Fintech; Technology-driven innovations in financial services.
+25;Healthcare Services; Medical and wellness services provided to individuals.
+26;Autonomous Driving; Technologies that enable vehicles to navigate and drive without human input.
+27;Ride-sharing; Services that connect passengers with drivers for shared transportation.
+28;Institutional Securities; Financial instruments traded by large institutions like banks and hedge funds.
+29;Digital Finance; Financial services and products delivered via digital platforms.
+30;Metaverse; Virtual environments where users can interact and engage in various activities.
+31;Cloud Computing; Delivery of computing services over the internet, including storage and processing power.
+32;Digital Media; Content delivered and accessed through digital platforms.
+33;Cybersecurity; Protection of digital systems and data from cyber threats and attacks.
+34;Vaccines; Biological preparations that provide immunity to specific diseases.
+35;Gene Therapy; Treatment that involves altering the genes inside a patient's cells to treat or prevent disease.
+36;Luxury Goods; High-end products that are often associated with status and prestige.
+37;Semiconductor Equipment; Machinery and tools used in the production of semiconductor devices.
+38;Advanced Packaging; Innovative methods of packaging semiconductor devices to enhance performance.
+39;Streaming Services; Platforms that deliver digital content, such as movies and music, via the internet.
+40;Wireless Telecommunications; Communication services that use radio waves to transmit data without wires.
+41;Hydrogen Production; Processes to produce hydrogen fuel, typically for energy applications.
+42;Logistics; Management of the flow of goods from origin to consumption.
+43;Semiconductors; Materials and devices essential for modern electronic equipment.
+44;Biofuels; Fuels derived from biological sources, such as plants and algae.
+45;Commercial Vehicles; Vehicles used for transporting goods or passengers for business purposes.
+46;Retirement Planning; Financial planning to ensure sufficient resources during retirement.
+47;Digital Insurance; Insurance products and services delivered through digital platforms.
+48;Digital Payments; Electronic methods of transferring money between parties.
+49;Lending; Providing funds to borrowers with the expectation of repayment, usually with interest.
+50;Healthcare; Services and products related to the maintenance or improvement of health.
+51;Digital Solutions; Technology-based tools and services designed to solve business problems.
+52;Pharmaceutical Distribution; Distribution of pharmaceutical products from manufacturers to healthcare providers.
+53;Engineering Services; Professional services that apply engineering principles to design and implement solutions.
+54;Sustainable Building; Construction practices that reduce environmental impact and improve energy efficiency.
+55;Outdoor Products; Goods designed for outdoor activities and recreation.
+56;Installation Services; Services that involve setting up and installing products or systems.
+57;Population Health Management; Strategies to improve the health outcomes of a specific population.
+58;Solar Energy; Energy harnessed from the sun, typically using photovoltaic cells.
+59;Real Estate; Property consisting of land and buildings, and the business of buying, selling, or renting properties.
+60;Telecommunications; Transmission of information over distances for communication purposes.
+61;Hard Seltzer; Alcoholic beverage made from carbonated water, alcohol, and flavorings.
+62;Cannabis-infused Beverages; Drinks that contain cannabinoids, such as THC or CBD.
+63;Oncology; The branch of medicine that specializes in the diagnosis and treatment of cancer.
+64;Neuroscience; The scientific study of the nervous system, including the brain.
+65;Finance; Management of money, including investments, banking, and credit.
+66;Electronics; Devices and systems that use electric currents to perform various functions.
+67;Immunology; The study of the immune system and its role in protecting the body from disease.
+68;Hypersonics; Technologies related to vehicles or missiles traveling at speeds greater than five times the speed of sound.
+69;Sustainable Aviation; Aviation practices that minimize environmental impact and promote long-term viability.
+70;Blockchain; A decentralized digital ledger that records transactions across multiple computers.
+71;Functional Beverages; Drinks designed to provide health benefits beyond basic nutrition.
+72;Direct-to-Consumer; Business model where products are sold directly to consumers, bypassing traditional retail.
+73;Consumer Products; Goods produced for personal use and consumption by the general public.
+74;Metaverse Experiences; Interactive activities and environments within virtual worlds.
+75;Rare Diseases; Medical conditions that affect a small percentage of the population.
+76;Sustainable Materials; Materials that have a minimal impact on the environment and are sustainably sourced.
+77;Sustainable Investing; Investment strategies that consider environmental, social, and governance (ESG) factors.
+78;5G Solutions; Products and services leveraging the advanced capabilities of 5G technology.
+79;E-commerce Fulfillment; Logistics services that manage the delivery of online orders to customers.
+80;Healthcare Logistics; Management of the supply chain for medical products and services.
+81;Energy Drinks; Beverages that contain ingredients to boost energy and alertness.
+82;Blockchain-enabled Supply Chain; Supply chain management that uses blockchain technology to enhance transparency and efficiency.
+83;Mobility; Services and technologies that facilitate the movement of people and goods.
+84;Gasoline; Liquid fuel used primarily in internal combustion engines.
+85;Optical Services; Services related to eye care and vision correction, including the sale of eyewear.
+86;Smart Grids; Electrical grids enhanced with digital technology to improve efficiency and reliability.
+87;Sustainable Mobility; Transportation solutions that reduce environmental impact and promote sustainability.
+88;Robotics; The design, construction, and operation of robots for various applications.
+89;Mobility Services; Services that provide transportation options to individuals and businesses.
+90;Nicotine Delivery Systems; Products designed to deliver nicotine to users, including e-cigarettes and patches.
+91;Sustainable Agriculture; Farming practices that promote environmental health and economic profitability.
+92;Cardiovascular Disease; Medical conditions affecting the heart and blood vessels.
+93;Communication Products; Devices and systems that facilitate communication, such as phones and radios.
+94;Industrial Robots; Robots used in manufacturing and other industrial processes.
+95;Laboratory Products and Services; Equipment and services used in scientific research and testing.
+96;Biosciences; Scientific study of living organisms and their relationship to the environment.
+97;Financing; Providing funds for business activities, purchases, or investments.
+98;Digital Enabled Services; Services enhanced or delivered through digital technology.
+99;Battery Materials; Materials used in the production of batteries, such as lithium and cobalt.
+100;Battery Management Systems; Systems that manage and monitor battery performance and safety.
+101;Blockchain Solutions; Applications of blockchain technology to enhance transparency and security in various industries.
+102;Investment Management; Managing investments to meet specified financial goals.
+103;Energy; Production, distribution, and management of energy resources.
+104;Chemicals; Production and sale of chemical products for various industries.
+105;Respiratory Disease; Medical conditions affecting the respiratory system.
+106;Urban Air Mobility; Air transportation solutions for urban areas, including air taxis and drones.
+107;Insurance; Financial protection products against various risks.
+108;Leasing and Factoring; Financial services that provide leasing and invoice factoring for businesses.
+109;Coal Chemical Products; Chemical products derived from coal.
+110;Energy Transportation; Transporting energy resources, such as oil and gas, from production to consumption points.
+111;Wireless Communications; Transmission of information without physical connections, using radio waves.
+112;Natural Gas Infrastructure; Facilities and networks for the extraction, transport, and distribution of natural gas.
+113;Green Hydrogen; Hydrogen produced using renewable energy sources.
+114;Animal Health; Veterinary services and products for animal healthcare.
+115;Digital Farming; Use of digital technology to enhance agricultural productivity and efficiency.
+116;Mobile Telecommunications; Services and infrastructure for mobile communication networks.
+117;Automotive Systems; Components and systems used in vehicles.
+118;Energy Solutions; Comprehensive energy management and efficiency solutions.
+119;Medical Devices; Instruments and equipment used in medical diagnostics and treatment.
+120;Product Identification; Technologies and systems for tracking and identifying products.
+121;Industrial Technologies; Advanced technologies used in industrial processes.
+122;Savings Accounts; Bank accounts that earn interest on deposited funds.
+123;Infrastructure; Physical and organizational structures needed for the operation of a society or enterprise.
+124;Private Equity; Investment in private companies to achieve long-term growth.
+125;Reinsurance; Insurance purchased by insurance companies to mitigate risk.
+126;Data Centers; Facilities used to house computer systems and associated components.
+127;Petrochemicals; Chemical products derived from petroleum and natural gas.
+128;Life Sciences; Study and application of biology and medicine to improve health.
+129;Supply Chain Management; Managing the flow of goods and services from production to consumption.
+130;Rail Transit; Transportation systems using railways.
+131;Digital Energy Storage; Technology for storing energy using digital solutions.
+132;Patient Monitoring; Devices and systems to continuously monitor patients' health.
+133;Energy Trading; Buying and selling of energy resources in markets.
+134;Smart Grid Solutions; Advanced grid systems that enhance electricity distribution and management.
+135;Nuclear Power; Generation of electricity using nuclear reactors.
+136;Outpatient Clinics; Healthcare facilities providing medical services without overnight stays.
+137;Digital Health Services; Online and mobile healthcare services.
+138;Safety and Productivity Solutions; Technologies to improve safety and productivity in workplaces.
+139;Digital Transformation; Integration of digital technology into all business areas.
+140;Biopharmaceuticals; Drugs developed using biological processes.
+141;Corporate Banking; Financial services for corporations and large institutions.
+142;Specialty Health; Medical services focused on specific health areas or conditions.
+143;Bakery Products; Goods produced by baking, such as bread, cakes, and pastries.
+144;Plant-based Foods; Foods made from plants, often as alternatives to animal products.
+145;Automotive Transport; Transport solutions related to vehicles.
+146;Digital Supply Chain Solutions; Digital technologies to enhance supply chain efficiency.
+147;Mobility Solutions; Services and technologies to improve transportation.
+148;Digital Services; Services delivered through digital platforms.
+149;Logistics Automation; Use of technology to automate logistics processes.
+150;Smart Home Solutions; Technologies to automate and enhance home living.
+151;Diabetes; Management and treatment of diabetes.
+152;Alzheimer's Disease; Research and treatment of Alzheimer's and related dementias.
+153;Grocery; Retailing of food and other household essentials.
+154;Fertilizers; Products that enhance soil fertility and crop production.
+155;Digital Agriculture Solutions; Technology solutions for modernizing agriculture.
+156;Software; Computer programs and applications.
+157;Hydrogen Infrastructure; Facilities and systems for hydrogen production, storage, and distribution.
+158;Digital Fitness; Online and mobile fitness programs and tracking.
+159;HIV/AIDS Therapies; Treatments and therapies for managing HIV/AIDS.
+160;Cell Therapy; Medical treatments that involve the transplantation of cells.
+161;Energy Networks; Systems for distributing energy from production to consumers.
+162;Hydrogen Solutions; Comprehensive approaches for utilizing hydrogen as an energy source.
+163;Construction Solutions; Products and services for building construction and management.
+164;Smart Cities; Urban areas that use technology to improve efficiency and quality of life.
+165;Green Buildings; Environmentally sustainable buildings designed to reduce energy use.
+166;Customer Experience; Strategies and technologies to improve interactions with customers.
+167;Sustainable Business Solutions; Business practices that promote environmental and social responsibility.
+168;Commercial Insurance; Insurance products for businesses to protect against various risks.
+169;Gaming; Development and distribution of video games.
+170;Networking; Technologies and systems for connecting computers and other devices.
+171;Cloud Computing Solutions; Delivery of computing services over the internet.
+172;Logistics Real Estate; Properties and facilities for logistics and distribution operations.
+173;Smart City Solutions; Technologies to improve urban living through smart infrastructure.
+174;Cloud and Security Solutions; Cloud computing services with integrated security measures.
+175;Marine and Industrial Engines; Engines used in marine and industrial applications.
+176;Autonomous Solutions; Technologies that enable autonomous operation of vehicles and systems.
+177;Crop Nutrients; Products that provide essential nutrients for plant growth.
+178;Sustainable Mining Solutions; Environmentally friendly mining practices and technologies.
+179;Fraud Prevention; Technologies and methods to detect and prevent fraud.
+180;Open Banking Solutions; Systems that allow third-party access to banking data through APIs.
+181;Hemophilia; Treatments and therapies for managing hemophilia.
+182;Digital Therapeutics; Digital health interventions to treat medical conditions.
+183;Missiles and Fire Control; Technologies for missile systems and targeting.
+184;Mission Systems; Integrated systems for mission-critical operations.
+185;Power Generation; Production of electricity from various energy sources.
+186;Online Lending; Digital platforms for providing loans to consumers and businesses.
+187;High-Performance Computing; Advanced computing systems for complex computations.
+188;Marine Systems; Technologies and systems for marine environments.
+189;Commodities and Global Markets; Trading and investment in commodities and global financial markets.
+190;Green Investment; Investment strategies focused on environmentally sustainable projects.
+191;Water Management; Systems and technologies for managing water resources.
+192;Gastroenterology; Medical field focusing on the digestive system and its disorders.
+193;Engineering and Construction; Services for designing and building infrastructure projects.
+194;Renewable Hydrogen; Hydrogen produced using renewable energy sources.
+195;Digital Insurance Solutions; Online and mobile platforms for delivering insurance products.
+196;Health Insurance; Insurance products that cover medical expenses.
+197;Digital Finance Solutions; Financial services delivered through digital platforms.
+198;Shipbuilding; Construction of ships and other marine vessels.
+199;Shipping Finance; Financial services related to the shipping industry.
+200;Digital Direct-to-Consumer; Selling products directly to consumers through digital channels.
+201;Precision Agriculture; Farming techniques that use data and technology to optimize crop production.
+202;Sustainable Ag Solutions; Environmentally friendly agricultural practices and technologies.
+203;Coatings; Protective and decorative surface finishes.
+204;Digital Solutions for Sustainable Products; Digital technologies that support the development and distribution of sustainable products.
+205;Connected Car Solutions; Technologies that enable connectivity and smart features in vehicles.
+206;Media and Digital Business; Digital content creation and distribution for media companies.
+207;Sunglasses; Eyewear designed to protect eyes from the sun.
+208;Digital Eye Care Solutions; Online and digital tools for eye care and vision correction.
+209;Reservoir Characterization; Analysis of subsurface reservoirs for oil and gas exploration.
+210;Production Management; Managing and optimizing production processes in various industries.
+211;Green Building Solutions; Sustainable building materials and construction practices.
+212;Alternative Proteins; Protein sources that are alternatives to traditional animal-based proteins.
+213;Power and Infrastructure; Development and management of power generation and infrastructure projects.
+214;Roofing Systems; Materials and technologies for building roofs.
+215;Recycled Building Materials; Building materials made from recycled content.
+216;Bancassurance; Partnership between banks and insurance companies to sell insurance products.
+217;New Materials; Development and application of innovative materials.
+218;Digital Mobility Solutions; Technologies that enhance mobility through digital platforms.
+219;Digital Fashion Solutions; Digital technologies applied to the fashion industry.
+220;Premium Non-Alcoholic; High-quality non-alcoholic beverages.
+221;Retirement Services; Financial planning and services for retirement.
+222;System Semiconductors; Advanced semiconductors used in complex systems.
+223;Artificial Intelligence Chips; Chips designed to optimize AI processing.
+224;High-Performance Solutions; Advanced solutions that enhance performance in various industries.
+225;Sustainable Habitat Solutions; Eco-friendly solutions for building and maintaining habitats.
+226;Carbon Capture; Technologies to capture and store carbon emissions.
+227;Renewable Natural Gas; Biogas upgraded to meet natural gas standards.
+228;Mining Technology; Advanced technologies used in the mining industry.
+229;Health and Wellness Products; Products that promote health and well-being.
+230;Integrated Smart City Solutions; Comprehensive technologies to create smart cities.
+231;Benefits Administration; Management of employee benefits programs.
+232;Digital Workforce Solutions; Digital tools and platforms for managing workforce operations.
+233;Apparel; Clothing and garments.
+234;Supply Chain and Logistics; Management of the flow of goods and services from production to consumption.
+235;Trading; Buying and selling of goods and financial instruments.
+236;Sustainable Materials and Solutions; Environmentally friendly materials and practices.
+237;Wine; Production and sale of wine.
+238;Cannabis Investments; Investment in the cannabis industry.
+239;Digital and Loyalty Programs; Digital platforms for customer loyalty and rewards programs.
+240;Plant-based Offerings; Products made from plants, often as alternatives to animal products.
+241;Building Solutions; Products and services for construction and building maintenance.
+242;Sustainable Products and Solutions; Eco-friendly products and practices.
+243;Customer Energy Solutions; Energy solutions tailored to customer needs.
+244;Hydrogen; Use of hydrogen as an energy source.
+245;Grid Modernization; Upgrading and improving electrical grid infrastructure.
+246;Sustainable Solutions; Environmentally and socially responsible business practices.
+247;Logistics and Distribution; Management of the transportation and delivery of goods.
+248;Digital Businesses; Businesses that operate primarily through digital platforms.
+249;Power Management; Systems and technologies for managing power usage and distribution.
+250;Sustainable Steel; Eco-friendly production and processing of steel with reduced environmental impact.
+251;NOR Flash; Non-volatile memory technology used in electronic devices.
+252;Solid State Drives; Storage devices that use flash memory for faster data access.
+253;Wildfire Prevention; Technologies and strategies to prevent and mitigate wildfires.
+254;E-commerce; Buying and selling of goods and services online.
+255;Digital Experiences; Interactive and immersive online user experiences.
+256;Rare Earth Magnets; Powerful magnets made from rare earth elements, used in various applications.
+257;Environmental Technologies; Innovations that address environmental challenges and promote sustainability.
+258;Intelligent Manufacturing; Advanced manufacturing processes that use AI and automation.
+259;Student Loans; Financial products to help students pay for education expenses.
+260;Securities Trading; Buying and selling of financial securities like stocks and bonds.
+261;Renewable Energy Solutions; Technologies and systems for generating energy from renewable sources.
+262;Smart Home Technologies; Devices and systems that automate and enhance home living.
+263;Dredging; Excavation of underwater areas to maintain or increase waterway depth.
+264;Heavy Machinery Manufacturing; Production of large industrial machines for various sectors.
+265;Digital Marketing; Online marketing strategies and tools to promote products and services.
+266;Telematics; Technology that combines telecommunications and informatics for vehicle tracking and management.
+267;Banking; Financial services involving deposits, loans, and other monetary transactions.
+268;Loyalty Programs; Programs designed to reward and retain customers.
+269;Digital Wealth Management; Online platforms and tools for managing investments and personal finances.
+270;CO2; Technologies for managing and reducing carbon dioxide emissions.
+271;Affordable Housing; Development of housing solutions that are accessible to low-income individuals.
+272;Digital Mortgage Solutions; Online platforms for managing and obtaining mortgages.
+273;Circular and Low-Carbon Solutions; Sustainable practices and technologies that promote circular economy and reduce carbon footprint.
+274;Surgical Products; Medical devices and instruments used in surgeries.
+275;Digital Healthcare Solutions; Technologies that enhance healthcare delivery and management.
+276;Home Products; Goods used in households, such as appliances and furniture.
+277;Digital Retail Services; Online services that facilitate retail operations and sales.
+278;Beverages; Production and sale of drinks, both alcoholic and non-alcoholic.
+279;Reduced Risk Products; Products designed to reduce health risks, such as alternative nicotine delivery systems.
+280;Corporate Hardware Solutions; Computer and technology hardware solutions for businesses.
+281;Managed Services; Outsourced management of IT and business processes.
+282;Industrial Solutions; Technologies and services for industrial applications.
+283;Connected Solutions; Integrated systems that enable connectivity across various devices and platforms.
+284;Circular Economy Solutions; Practices and technologies that promote recycling, reuse, and sustainable resource management.
+285;Aftermarket Parts; Replacement parts for vehicles and machinery sold after the original sale.
+286;Connected Vehicle Solutions; Technologies that enable vehicle connectivity and smart features.
+287;Technology Solutions; Advanced technology products and services for various industries.
+288;Diabetes Care; Products and services for managing diabetes.
+289;Integrated Medication Management; Systems that optimize medication administration and adherence.
+290;Data and Technology Solutions; Tools and services that leverage data and technology for business optimization.
+291;ESG Solutions; Environmental, Social, and Governance solutions for sustainable business practices.
+292;Vehicle; Design, production, and sale of motor vehicles.
+293;eMobility Solutions; Technologies and services for electric and sustainable transportation.
+294;Trading Services; Financial services for buying and selling various assets.
+295;Sensors; Devices that detect and measure physical properties and convert them into signals.
+296;Healthcare Solutions; Comprehensive products and services for healthcare.
+297;E-learning Solutions; Digital platforms and tools for online education.
+298;Webscale Routing and Automation; Technologies for scaling and automating web traffic management.
+299;Cybersecurity Solutions; Products and services to protect digital systems and data from cyber threats.
+300;Aircraft and Ship Financing; Financial products for purchasing and maintaining aircraft and ships.
+301;Venture Capital; Investment in early-stage companies with high growth potential.
+302;Internet and Communications Solutions; Technologies for internet connectivity and communication services.
+303;Smart Solutions; Intelligent technologies for various applications, including smart homes and cities.
+304;Home Care Products; Goods designed for at-home healthcare and personal care.
+305;Mobile and Broadband Services; Services providing mobile and high-speed internet connectivity.
+306;Pet Foods; Nutrition products for pets.
+307;Digital Commerce Solutions; Online platforms for facilitating commercial transactions.
+308;Cloud Solutions; Cloud-based services for storage, computing, and software applications.
+309;Life Insurance; Insurance products that provide financial protection to beneficiaries upon the insured's death.
+310;Sustainability Consulting; Advisory services for businesses on sustainable practices and strategies.
+311;Prepared Foods; Pre-made meals and food products ready for consumption.
+312;Payment Solutions; Technologies for facilitating payments and financial transactions.
+313;Cyber and Intelligence; Technologies for cybersecurity and intelligence gathering.
+314;Hospitality; Services related to accommodation, food, and travel for guests.
+315;E-commerce and Digital Solutions; Integrated online platforms for commercial activities and digital services.
+316;United Aviate Career Development; Programs for training and career advancement in aviation.
+317;Biotechnology; Use of biological processes for industrial and medical applications.
+318;Industrial Finance; Financial services for industrial enterprises.
+319;Filtration; Technologies for removing impurities from air, water, and other substances.
+320;Advanced Materials; High-performance materials with superior properties.
+321;New Energy Solutions; Innovative energy technologies and systems.
+322;Energy Services; Comprehensive services for managing energy use and efficiency.
+323;Digital Network Services; Online services for network management and connectivity.
+324;Urban Infrastructure; Development and management of city infrastructure.
+325;Modern Services; Contemporary business services leveraging advanced technology.
+326;LNG Export; Exporting liquefied natural gas.
+327;Home Appliances; Electrical and mechanical devices used in households.
+328;Information and Communication Systems; Technologies for processing and communicating information.
+329;Hospital Management; Administration and operation of hospitals and healthcare facilities.
+330;Food; Production, processing, and distribution of edible products.
+331;Automotive; Industry related to the design, production, and sale of motor vehicles.
+332;Building and Industrial Materials; Materials used in construction and industrial applications.
+333;Coal Mining; Extraction of coal from the earth for energy production.
+334;Materials; Substances used in manufacturing and construction.
+335;Electric Power; Generation, transmission, and distribution of electricity.
+336;Data Solutions; Services and technologies for managing and analyzing data.
+337;Media Services; Content creation and distribution for various media platforms.
+338;Solutions; Comprehensive services and technologies to address business challenges.
+339;Automotive Finance; Financial products and services for purchasing and leasing vehicles.
+340;Corporate Travel; Management of travel services for business purposes.
+341;Space Exploration; Scientific and commercial activities related to exploring outer space.
+342;Digital Aerospace Solutions; Technologies for advancing aerospace operations through digital innovation.
+343;Financial Services; Wide range of services related to managing money, including banking, investments, and insurance.
+344;Medical Nutrition; Nutritional products designed for medical purposes.
+345;Sustainable Operations; Business practices that focus on environmental sustainability and efficiency.
+346;Aluminum; Production and processing of aluminum and aluminum products.
+347;New Energy; Emerging energy sources and technologies.
+348;Ophthalmology; Medical field specializing in eye care and vision.
+349;Information Systems; Technologies for managing and processing information.
+350;Software Solutions; Computer programs designed to solve specific business problems.
+351;Capital Formation Solutions; Financial products and services for raising capital.
+352;Sustainable Finance Products; Financial instruments that promote sustainability.
+353;Industrial Products; Goods produced for industrial applications.
+354;Corporate Experiences; Business events and programs designed for corporate engagement.
+355;Wine Tourism; Travel experiences centered around wine tasting and vineyard tours.
+356;Robotic Solutions; Technologies for automating tasks using robots.
+357;IoT; Internet of Things, network of connected devices that collect and exchange data.
+358;Sustainable Food Systems; Practices and technologies for producing food sustainably.
+359;Bioenergy and Green Fuels; Renewable energy sources derived from biological materials.
+360;Edge Computing; Distributed computing that brings data processing closer to the source of data.
+361;Smart City Infrastructure; Technologies for creating intelligent urban environments.
+362;Process Solutions; Technologies and services to optimize industrial processes.
+363;Automotive Solutions; Products and services for the automotive industry.
+364;Data & Analytics Solutions; Tools and services for analyzing data to inform decision-making.
+365;IP Solutions; Intellectual property services and technologies.
+366;Intelligent Driving; Advanced driving technologies, including autonomous driving systems.
+367;AI Chips; Specialized processors designed to accelerate artificial intelligence applications.
+368;Supply Chain Services; Comprehensive services for managing supply chains.
+369;Distributed Energy Networks; Systems for generating and distributing energy locally.
+370;Energy Efficiency Services; Services aimed at reducing energy consumption and improving efficiency.
+371;Distribution; Logistics and distribution of goods.
+372;Digital Color Solutions; Technologies for digital color management and printing.
+373;Environmental Energy; Renewable and clean energy sources and technologies.
+374;Life Services; Comprehensive services aimed at improving quality of life.
+375;Forward Solutions; Proactive and innovative solutions for future challenges.
+376;Nucleic Acid Medicines; Therapies based on nucleic acids for treating diseases.
+377;Digital Health Solutions; Technologies to enhance healthcare delivery and patient outcomes.
+378;Building Automation; Systems for automating building functions and operations.
+379;Digital Building Solutions; Digital technologies for managing and operating buildings.
+380;Gene and Cell Therapies; Advanced medical treatments involving genetic and cellular modifications.
+381;Fintech Solutions; Financial technologies to enhance and innovate financial services.
+382;Vehicle Air-Conditioning; Systems for cooling the interior of vehicles.
+383;Biologicals; Medical products derived from biological sources.
+384;Carbon Capture and Sequestration; Technologies for capturing and storing carbon emissions.
+385;Enterprise Solutions; Comprehensive technologies and services for businesses.
+386;Energy Marketing; Strategies and services for promoting energy products and services.
+387;Recycling and Recovery; Processes for reclaiming materials from waste.
+388;Smart Environmental Solutions; Technologies to address environmental challenges.
+389;Small Business Solutions; Services and products designed to support small businesses.
+390;Consumer Finance; Financial services for individual consumers.
+391;Digital Financial Solutions; Online and mobile platforms for financial services.
+392;Integration Solutions; Technologies for integrating various systems and processes.
+393;Coal Mining Equipment; Machinery and tools used in coal extraction.
+394;Smart Mining Solutions; Advanced technologies for efficient and sustainable mining.
+395;Online Education; Educational programs and courses delivered via the internet.
+396;Cloud Services; Internet-based computing services, including storage and software applications.
+397;Market Data; Information and statistics related to financial markets.
+398;Risk Management; Strategies and tools for identifying and mitigating risks.
+399;Travel; Services related to travel and tourism.
+400;Digital Marketing Solutions; Online tools and strategies for promoting products and services.
+401;Smart Agriculture Solutions; Technologies to enhance agricultural productivity and sustainability.
+402;Surface Technologies; Technologies for surface treatment and finishing.
+403;Nutrition and Care Solutions; Products and services for nutritional and personal care.
+404;Instrumentation; Devices and tools for measuring and controlling various parameters.
+405;Sustainability Solutions; Technologies and practices that promote environmental and social responsibility.
+406;Digital Grid Solutions; Technologies to enhance the efficiency and reliability of electrical grids.
+407;Food Processing; Technologies and methods for transforming raw ingredients into food products.
+408;Smart Farming Solutions; Advanced technologies for optimizing farming practices.
+409;Nicotine Delivery; Products designed to deliver nicotine, such as e-cigarettes and patches.
+410;Cannabinoid Products; Products containing cannabinoids, such as CBD and THC, derived from cannabis.
+411;Urban Development Solutions; Strategies and technologies for improving urban infrastructure and living conditions.
+412;Digital Energy Solutions; Technologies that enhance the management and efficiency of energy systems through digital platforms.
+413;Analog ICs; Analog integrated circuits used in various electronic applications.
+414;Energy Transport; Systems and technologies for transporting energy resources like oil, gas, and electricity.
+415;Food and Agriculture; Industries involved in the production, processing, and distribution of food and agricultural products.
+416;Sustainable City Development; Practices and technologies for creating environmentally friendly and sustainable urban areas.
+417;Remote Site Operations; Management and operation of facilities in remote locations, often related to energy and mining.
+418;Digital Hospitality Solutions; Digital tools and platforms to enhance hospitality services, including booking and customer management.
+419;Supply and Marketing Services; Services that manage the supply chain and marketing efforts for various industries.
+420;Corporate Solutions; Comprehensive services and technologies designed to meet the needs of businesses.
+421;Supply Chain; Management of the flow of goods and services from production to consumption.
+422;Alternative Fuel Vehicles; Vehicles powered by non-traditional fuels, such as electric or hydrogen.
+423;Digital Engagement Solutions; Technologies that facilitate interaction and engagement with customers online.
+424;Energy and Services; Comprehensive solutions for energy production, management, and related services.
+425;Digital Transformation Solutions; Technologies and strategies to digitally transform business operations.
+426;Sustainability Initiatives; Programs and practices aimed at promoting environmental and social sustainability.
+427;Diagnostics; Medical technologies and tools for diagnosing diseases and conditions.
+428;Capital Markets; Financial markets for buying and selling equity and debt instruments.
+429;Digital Wealth Solutions; Online platforms and tools for managing personal and investment wealth.
+430;IoT and Enterprise; Integration of Internet of Things technologies into enterprise operations.
+431;Digital Services Solutions; Comprehensive digital services to enhance business operations.
+432;Fuel; Various types of fuel used for energy production and transportation.
+433;Digital Retail Solutions; Online tools and platforms to enhance retail operations.
+434;Ground Transportation; Services and technologies related to land-based transportation.
+435;Green Technologies; Environmentally friendly technologies that promote sustainability.
+436;Water Utilities; Infrastructure and services for water supply and management.
+437;Clinical Trials; Research studies to test the safety and efficacy of medical treatments.
+438;MRO Services; Maintenance, repair, and operations services for various industries.
+439;Vacation Travel; Services related to planning and booking vacations.
+440;Waste Treatment; Technologies and processes for managing and treating waste.
+441;Green Building Materials; Environmentally friendly materials used in construction.
+442;Gas; Natural gas and other gaseous fuels used for energy production.
+443;Digital Financial Services; Online financial services including banking, investing, and insurance.
+444;Hotels; Businesses providing lodging and related services.
+445;Automotive Chips; Semiconductors used in automotive applications.
+446;Edge Computing Solutions; Technologies that bring data processing closer to data sources.
+447;Transfer Services; Financial and non-financial transfer services.
+448;AI and Security Services; Artificial intelligence technologies for enhancing security.
+449;Completion Solutions; Technologies and services for completing oil and gas wells.
+450;Production Solutions; Technologies and services to optimize industrial production.
+451;High Performance Computing; Advanced computing systems for complex computations.
+452;Business Innovation; Strategies and technologies to foster business innovation.
+453;Recording Media; Devices and formats for recording audio and video.
+454;Digital Entertainment; Online platforms and services for entertainment content.
+455;Visual Content; Creation and distribution of visual media, including photography and video.
+456;Digital Banking Solutions; Online platforms for banking services.
+457;Mortgage Lending; Financial products and services for purchasing real estate.
+458;Supply Chain Solutions; Comprehensive services for managing supply chains.
+459;Application Services; Technologies and platforms for developing and managing applications.
+460;Digital Mining Solutions; Technologies for enhancing mining operations through digital tools.
+461;Stock Transfer Agency Services; Services for managing stock transfers and shareholder records.
+462;Smart Devices; Connected electronic devices with advanced capabilities.
+463;AIoT Platforms; Integration of artificial intelligence with the Internet of Things.
+464;Automotive OEM; Original equipment manufacturing for the automotive industry.
+465;Specialty Products; Niche products designed for specific applications.
+466;Leather and Biodiesel; Products derived from leather processing and biodiesel production.
+467;Energy Marketing Services; Strategies and services for promoting energy products.
+468;Equipment Manufacturing; Production of machinery and equipment for various industries.
+469;Bulk Shipping; Transportation of large quantities of goods, typically via ships.
+470;Server and Embedded Processors; Processors used in servers and embedded systems.
+471;Gaming Solutions; Technologies and platforms for video gaming.
+472;Data and Devices; Technologies for data management and connected devices.
+473;Edible Oils; Production and distribution of oils for cooking and consumption.
+474;Digital Commerce; Online platforms for commercial transactions.
+475;Data & Media Solutions; Technologies for managing and distributing data and media content.
+476;Asphalt; Production and application of asphalt for construction.
+477;Waste Processing and Recycling; Technologies for treating and recycling waste.
+478;Intelligence and Cyber Solutions; Technologies for intelligence gathering and cybersecurity.
+479;Index Products; Financial products based on market indices.
+480;International Banking; Banking services for international transactions and operations.
+481;IPTV; Internet Protocol Television, a digital television broadcasting technology.
+482;Smart Home and Security Solutions; Technologies for automating and securing homes.
+483;Neuromodulation; Medical technologies for altering nerve activity to treat conditions.
+484;Electronic Materials; Materials used in the production of electronic devices.
+485;Coal Gasification; Process of converting coal into gas for energy production.
+486;Bearings; Components used to reduce friction in machinery.
+487;Digital Manufacturing Solutions; Technologies for digitizing and optimizing manufacturing processes.
+488;Plant-based Alternatives; Food products made from plants as substitutes for animal-based products.
+489;iGaming; Online gaming and betting platforms.
+490;Hospitality Technology; Technologies for enhancing services in the hospitality industry.
+491;Renewable Polymers and Chemicals; Environmentally friendly polymers and chemicals.
+492;Renewable Aviation; Sustainable practices and technologies in the aviation industry.
+493;Hotels and Inns; Lodging establishments providing accommodation and services.
+494;Waterworks; Infrastructure for water supply and management.
+495;Water Solutions; Technologies and services for water treatment and management.
+496;Pet Nutrition; Products for the dietary needs of pets.
+497;QSR; Quick Service Restaurants, fast-food establishments.
+498;Digital Direct-to-Consumer Solutions; Online platforms for selling products directly to consumers.
+499;Carbon Capture & Storage; Technologies for capturing and storing carbon emissions.
+500;Utility & Telecom Investments; Investments in utilities and telecommunications infrastructure.
+501;Catering; Food service for events and institutions.
+502;Sports and Entertainment; Industries related to sports and entertainment activities.
+503;Connected Home Monitoring; Technologies for remotely monitoring and managing home environments.
+504;Communications; Technologies and services for facilitating communication.
+505;Data and Technology Services; Comprehensive data and tech solutions for businesses.
+506;IT Services; Information technology support and services for organizations.
+507;Environmental Systems; Technologies for monitoring and managing environmental impact.
+508;Digital Innovation; New digital technologies and approaches to business.
+509;Gene Editing; Technologies for altering genetic material.
+510;Cell Therapies; Medical treatments involving the use of living cells.
+511;Lubricants; Substances used to reduce friction in machinery.
+512;Smart Networks; Intelligent networking technologies for enhanced connectivity.
+513;Distributed Energy; Decentralized energy production and distribution systems.
+514;Smart Energy Solutions; Advanced technologies for optimizing energy use and management.
+515;Digital Business Platform; Integrated online platforms for managing business operations.
+516;Transport Refrigeration; Technologies for keeping transported goods cold.
+517;Digital Climate Solutions; Technologies for monitoring and mitigating climate change.
+518;Automotive Parts; Components used in vehicle manufacturing and repair.
+519;Intelligent Logistics Solutions; Advanced technologies for optimizing logistics operations.
+520;Autonomous Delivery Vehicles; Vehicles capable of delivering goods without human intervention.
+521;Consulting; Professional advisory services for businesses.
+522;Digital Real Estate Solutions; Online platforms for real estate transactions and management.
+523;Renewable Energy Investment; Financial investments in renewable energy projects.
+524;Building Materials; Materials used in construction.
+525;Smart City Development; Technologies and strategies for creating smart, sustainable urban areas.
+526;Digital Agribusiness Platform; Online platforms for managing agricultural operations.
+527;Logistics Services; Comprehensive services for managing the movement of goods.
+528;Power Solutions; Technologies for generating and managing power.
+529;Smart Mobility and Energy Solutions; Integrated technologies for sustainable transportation and energy.
+530;At-Home Solutions; Products and services designed for use at home.
+531;Packaging; Materials and processes for protecting and presenting products.
+532;Legal; Professional services related to law and legal matters.
+533;Exhibitions; Events for displaying and promoting products and services.
+534;Digital Information Solutions; Technologies for managing and distributing digital information.
+535;Aerosystems; Technologies and systems for aerospace applications.
+536;Digital Aviation Solutions; Digital technologies to enhance aviation operations.
+537;Freight; Transportation of goods by land, sea, or air.
+538;Retail Brokerage; Financial services for buying and selling securities for retail clients.
+539;Real-World Solutions; Practical and applicable solutions for real-world challenges.
+540;Digital HealthTech; Technologies for improving health care delivery and management.
+541;Used Equipment; Market for buying and selling pre-owned machinery and equipment.
+542;Digital Fleet Management Solutions; Online platforms for managing vehicle fleets.
+543;HR Solutions; Services and technologies for managing human resources.
+544;Family Wealth Solutions; Financial planning and management for family wealth.
+545;Value-Added Products; Products that have been enhanced or improved for higher value.
+546;Recycling; Processes for reclaiming materials from waste.
+547;Accessories; Complementary items for various products and applications.
+548;Digital and E-commerce Solutions; Online tools and platforms for enhancing digital sales and marketing.
+549;Smart Manufacturing; Technologies for automating and optimizing manufacturing processes.
+550;Communications Equipment; Devices used for transmitting and receiving information.
+551;Hotel and Resort Operations; Management and operation of lodging facilities and resorts.
+552;Aircraft Maintenance; Services for repairing and maintaining aircraft.
+553;Travel Services; Comprehensive services for planning and booking travel.
+554;Resource Development; Exploration and development of natural resources.
+555;Investment; Allocation of capital with the expectation of future financial returns.
+556;Energy Internet; Integration of internet technology with energy management systems.
+557;Static Eliminators; Devices used to remove static electricity from surfaces.
+558;Digital Factory Automation; Technologies for automating factory operations through digital tools.
+559;Spirits; Production and sale of distilled alcoholic beverages.
+560;Cannabinoid Products; Products containing cannabinoids, such as CBD and THC, derived from cannabis.
+561;Urban Development Solutions; Strategies and technologies for improving urban infrastructure and living conditions.
+562;Digital Energy Solutions; Technologies that enhance the management and efficiency of energy systems through digital platforms.
+563;Analog ICs; Analog integrated circuits used in various electronic applications.
+564;Energy Transport; Systems and technologies for transporting energy resources like oil, gas, and electricity.
+565;Food and Agriculture; Industries involved in the production, processing, and distribution of food and agricultural products.
+566;Sustainable City Development; Practices and technologies for creating environmentally friendly and sustainable urban areas.
+567;Remote Site Operations; Management and operation of facilities in remote locations, often related to energy and mining.
+568;Digital Hospitality Solutions; Digital tools and platforms to enhance hospitality services, including booking and customer management.
+569;Supply and Marketing Services; Services that manage the supply chain and marketing efforts for various industries.
+570;Corporate Solutions; Comprehensive services and technologies designed to meet the needs of businesses.
+571;Supply Chain; Management of the flow of goods and services from production to consumption.
+572;Alternative Fuel Vehicles; Vehicles powered by non-traditional fuels, such as electric or hydrogen.
+573;Digital Engagement Solutions; Technologies that facilitate interaction and engagement with customers online.
+574;Energy and Services; Comprehensive solutions for energy production, management, and related services.
+575;Digital Transformation Solutions; Technologies and strategies to digitally transform business operations.
+576;Sustainability Initiatives; Programs and practices aimed at promoting environmental and social sustainability.
+577;Diagnostics; Medical technologies and tools for diagnosing diseases and conditions.
+578;Capital Markets; Financial markets for buying and selling equity and debt instruments.
+579;Textiles; Production and processing of fabrics and cloth materials.
+580;IoT Solutions; Internet of Things technologies for connecting devices and systems.
+581;Industrials; Sector involving manufacturing and industrial services.
+582;Cellulose Fibers; Natural fibers derived from cellulose for various applications.
+583;Premium Connections; High-quality connectivity solutions for telecommunications and networking.
+584;Engineering Solutions; Professional engineering services and technologies.
+585;LNG; Liquefied natural gas production, transport, and storage.
+586;Sports Programming; Broadcasting and production of sports content.
+587;Underwriting and Risk Solutions; Services for evaluating and managing risk in insurance and finance.
+588;Electric Vehicles; Vehicles powered by electric motors and batteries.
+589;Building Products; Materials and products used in construction.
+590;Housing Materials; Materials specifically used in residential construction.
+591;Treasury; Management of a company's cash flow, investments, and financial strategy.
+592;Digital Travel Platforms; Online tools and services for booking and managing travel.
+593;Engines Leasing; Leasing services for aircraft and industrial engines.
+594;Investment Properties; Real estate investments for income generation and capital appreciation.
+595;Digital Edge Services; Technologies for edge computing and processing.
+596;Sustainable Mobility and Resources; Solutions for sustainable transportation and resource management.
+597;Vehicle Components; Parts and systems used in the manufacturing of vehicles.
+598;B2B Solutions; Business-to-business services and products.
+599;Biochemicals; Chemicals derived from biological sources.
+600;AI & Data Analytics; Advanced analytics and artificial intelligence technologies.
+601;Digital Government; Technologies for improving government services and operations.
+602;Energy Efficiency Programs; Initiatives to reduce energy consumption and improve efficiency.
+603;Software and Analytics Solutions; Comprehensive software and data analysis tools.
+604;Digital Technology; Advanced digital tools and platforms for various applications.
+605;Nuclear and Thermal Power; Generation of electricity using nuclear and thermal energy.
+606;Steel; Production and processing of steel products.
+607;Multi-Tracks; Audio and video production technologies for multi-track recording.
+608;Renewables; Technologies and systems for generating energy from renewable sources.
+609;Agri-business; Businesses involved in agricultural production and services.
+610;Memory Products; Storage devices and memory solutions for electronics.
+611;Engineering and R&D Services; Professional services for engineering and research and development.
+612;Digital Workplace; Technologies for enhancing remote work and digital collaboration.
+613;Golf Course Properties; Real estate development and management of golf courses.
+614;Gaming Real Estate; Properties and facilities used for gaming and entertainment.
+615;Personal & Home Services; Services related to home maintenance and personal care.
+616;PR and Public Affairs; Public relations and communication strategies for businesses.
+617;Digital Experience Design; Creation of interactive and engaging digital user experiences.
+618;Millwork; Woodworking for building interiors and furniture.
+619;Construction Services; Professional services related to construction and building management.
+620;Digital Supply Chain; Technologies for enhancing supply chain management through digital tools.
+621;Lithium Recycling and Digital Solutions; Technologies for recycling lithium and other materials using digital tools.
+622;Digital and Industrial Solutions; Comprehensive digital technologies for industrial applications.
+623;Islamic Banking; Banking services compliant with Islamic law.
+624;Chemical Products; Production and sale of chemical substances for various industries.
+625;Commercial and Retail Operations; Management of commercial and retail businesses.
+626;Bioproducts; Products derived from biological sources for industrial and consumer use.
+627;Sustainable Construction Materials ; Environmentally friendly materials used in building construction.
+628;Offshore Support Vessels; Ships that provide services to offshore oil and gas platforms.
+629;LNG Terminals ; Facilities for liquefied natural gas processing and storage.
+630;Healthcare Facilities; Buildings and infrastructure for providing medical services.
+631;Data Centers ; Facilities used to house computer systems and associated components.
+632;Digital Asset Management ; Technologies for managing digital assets and content.
+633;Precision Medicine ; Personalized medical treatments based on genetic and environmental factors.
+634;Voluntary Benefits; Additional employee benefits offered voluntarily by employers.
+635;Absence Management ; Systems for managing employee leave and absences.
+636;Records Management; Technologies and practices for managing organizational records.
+637;Commercial Real Estate ; Properties used for business purposes.
+638;Property Management; Services for managing residential and commercial properties.
+639;Modern Agriculture ; Advanced farming techniques and technologies.
+640;Data Center Solutions; Technologies and services for managing data centers.
+641;Managed Services ; Outsourced management of IT and business processes.
+642;FinTech Solutions ; Financial technologies to enhance and innovate financial services.
+643;Midstream Operations ; Activities related to the transportation, storage, and wholesale marketing of oil and gas.
+644;Industrial Services; Comprehensive services for industrial operations and maintenance.
+645;Renewable Energy ; Production of energy from sustainable sources like wind, solar, and hydro.
+646;IoT Solutions ; Internet of Things technologies for connecting devices and systems.
+647;Electrification Solutions ; Technologies for transitioning to electric power.
+648;Digital Insurance ; Online platforms for managing insurance services.
+649;Materials Recycling; Processes for reclaiming materials from waste.
+650;Logistics ; Management of the flow of goods from origin to consumption.
+651;Service and Modernization; Services for updating and maintaining equipment and infrastructure.
+652;Digital Solutions ; Comprehensive digital technologies for various applications.
+653;Advanced Materials ; High-performance materials with superior properties.
+654;Emissions Abatement; Technologies for reducing greenhouse gas emissions.
+655;Digital Farming ; Use of digital technology to enhance agricultural productivity and efficiency.
+656;Digitalization; The process of converting information into digital format.
+657;Mobility Services ; Services and technologies that facilitate transportation.
+658;Industrial Materials; Materials used in industrial manufacturing processes.
+659;Information and Communications ; Technologies for processing and communicating information.
+660;Music Streaming; Platforms for streaming music online.
+661;Food Delivery ; Services that deliver food from restaurants to consumers.
+662;Mining; Extraction of minerals and other geological materials.
+663;Emerging Markets; Investment and business opportunities in developing economies.
+664;Direct-to-Consumer ; Selling products directly to consumers, bypassing traditional retail.
+665;Industrial Chemicals; Chemicals used in industrial processes and manufacturing.
+666;Potassium ; Chemical element used in agriculture and various industrial applications.
+667;Regenerative Medicine; Medical treatments that regenerate or replace damaged tissues and organs.
+668;Digital Health ; Use of digital technologies to improve health and healthcare services.
+669;Energy Efficiency; Technologies and practices to reduce energy consumption.
+670;Energy Storage ; Technologies for storing energy, such as batteries and pumped hydro storage.
+671;News and Media; Production and distribution of news and media content.
+672;Artificial Intelligence ; Technologies that enable machines to perform tasks that typically require human intelligence.
+673;New Energy Solutions ; Innovative energy technologies and systems.
+674;Hospitality Solutions; Comprehensive services for the hospitality industry.
+675;Residential Security ; Technologies for protecting residential properties.
+676;Medical Solutions; Products and services for medical diagnostics and treatment.
+677;Digital Services ; Online and mobile services for various applications.
+678;Digital Banking ; Online and mobile banking services.
+679;Shipping; Transporting goods by sea.
+680;Energy Services ; Comprehensive services for managing energy use and efficiency.
+681;AI-Driven Insights ; Data analysis and insights powered by artificial intelligence.
+682;Carbon Capture and Storage ; Technologies for capturing and storing carbon dioxide emissions.
+683;Sealants and Adhesives; Products used to seal and bond materials.
+684;Waterproofing Solutions ; Technologies for protecting structures from water damage.
+685;Financial Inclusion ; Services that provide financial access to underserved populations.
+686;Trust Services; Management of financial trusts and fiduciary responsibilities.
+687;Sustainable Technologies; Innovations that promote environmental and social sustainability.
+688;Additive Manufacturing ; Technologies for creating objects by adding material layer by layer, such as 3D printing.
+689;Terminal Operations; Management of facilities for loading and unloading goods.
+690;Green Shipping Solutions ; Environmentally friendly practices and technologies in shipping.
+691;Digital Insurance Solutions ; Online platforms for delivering insurance products.
+692;Sustainability Services ; Consulting and services to promote sustainable business practices.
+693;Modern Agriculture; Advanced farming techniques and technologies.
+694;Healthcare ; Services and products related to medical care and wellness.
+695;Energy-Efficient Vehicles; Vehicles designed to use less energy.
+696;Digital Health Solutions ; Technologies that enhance healthcare delivery and management.
+697;Measurement and Analytical Solutions; Tools for measuring and analyzing data.
+698;Digital Transformation ; Integration of digital technology into all business areas.
+699;Food Ingredients; Substances used in the production of food products.
+700;Biotech Solutions ; Biotechnology applications for various industries.
+701;Investment Solutions; Financial products and strategies for investment management.
+702;Automotive Components; Parts and systems used in vehicle manufacturing.
+703;Logistics Solutions ; Comprehensive services for managing the movement of goods.
+704;Managed and Support Services; Outsourced services for IT and business operations.
+705;Cybersecurity Solutions ; Technologies and strategies to protect digital systems and data.
+706;Mineral Trading; Buying and selling of mineral commodities.
+707;New Materials ; Development and application of innovative materials.
+708;Special Alloys; High-performance metal alloys for specialized applications.
+709;Digital Manufacturing Solutions ; Technologies for digitizing and optimizing manufacturing processes.
+710;Maintenance and Overhaul; Services for maintaining and refurbishing machinery and equipment.
+711;Digital Travel Services ; Online tools and platforms for planning and booking travel.
+712;Digital Platforms ; Online systems that provide various services and functionalities.
+713;Wealth Management ; Financial advisory services that help clients manage and grow their wealth.
+714;Mine Development; Planning and construction of new mining operations.
+715;Sustainable Mining Solutions ; Environmentally friendly mining practices and technologies.
+716;Marketplace Solutions; Platforms that facilitate buying and selling between businesses or consumers.
+717;Digital Health Services ; Online healthcare services, including telemedicine and digital health records.
+718;Energy Devices; Equipment and tools for generating, storing, and managing energy.
+719;Complete Vehicles; Manufacturing and sale of fully assembled vehicles.
+720;Mobility Solutions ; Services and technologies that facilitate transportation.
+721;Sustainability Initiatives ; Programs and practices aimed at promoting environmental and social sustainability.
+722;Zinc Mining; Extraction of zinc ore for industrial use.
+723;Merchandising ; The process of promoting and selling products to consumers.
+724;Cybersecurity ; Protection of digital systems and data from cyber threats and attacks.
+725;Biomedical Research; Scientific research focused on medical and health-related fields.
+726;Rubber and Tires; Manufacturing of rubber products and tires for various vehicles.
+727;Environmental Protection ; Technologies and practices to preserve and protect the environment.
+728;Outdoor Recreation; Products and services for outdoor activities and sports.
+729;E-commerce ; Buying and selling of goods and services online.
+730;Urban Services; Services and infrastructure for urban areas.
+731;Digital Fitness Solutions; Online and digital platforms for fitness and wellness.
+732;Sustainable Products ; Products designed to have minimal environmental impact.
+733;Customer Services ; Assistance and support provided to customers.
+734;Data Analytics ; Analysis of data to extract useful insights and inform decision-making.
+735;Smart Grid Solutions ; Advanced grid systems that enhance electricity distribution and management.
+736;Sustainable Solutions ; Environmentally and socially responsible business practices.
+737;Equity Investment; Investing in equity securities of companies.
+738;Maritime Services; Services related to shipping and maritime industries.
+739;Fire Protection; Technologies and services for preventing and managing fires.
+740;Sustainability Solutions ; Innovations and strategies for sustainable business practices.
+741;Plant-Based Foods; Foods made from plants, often as alternatives to animal products.
+742;Supply Chain Services ; Comprehensive services for managing supply chains.
+743;Waste Solutions; Technologies and services for managing and reducing waste.
+744;Circular Economy Solutions ; Practices and technologies that promote recycling, reuse, and sustainable resource management.
+745;Health Care; Services and products related to medical care and wellness.
+746;Lighting Solutions; Technologies for efficient and effective lighting.
+747;Assistance Services; Professional services that provide support and help.
+748;Sustainable Mining; Environmentally friendly mining practices and technologies.
+749;Closures; Devices and systems for sealing and closing products and containers.
+750;Services and Software ; Comprehensive services and software solutions for various industries.
+751;Lifestyle Brand; Brands that promote a particular way of life or values.
+752;International Expansion; Strategies and practices for growing a business internationally.
+753;Module Manufacturing; Production of modular components for various applications.
+754;New Energy Ventures; Innovative projects and businesses focused on new energy sources.
+755;Warehousing; Storage solutions for goods and products.
+756;Supply Chain Consulting; Advisory services for optimizing supply chain operations.
+757;Engineering Consulting; Professional engineering advisory services.
+758;Paper; Production and processing of paper products.
+759;New Wood-Based Offerings; Innovative products derived from wood.
+760;Electrification; Technologies and systems for transitioning to electric power.
+761;New Mobility Solutions; Advanced technologies and services for modern transportation needs.
+762;E-commerce Ventures; Business projects focused on online sales.
+763;Subscription Models; Business models that offer products or services on a subscription basis.
+764;FinTech Ventures; Innovative projects in the financial technology sector.
+765;Health Solutions; Comprehensive products and services for healthcare.
+766;Real Estate Services; Services related to buying, selling, and managing real estate.
+767;Digital Platforms; Online systems that provide various services and functionalities.
+768;New Technology Ventures; Innovative projects focused on emerging technologies.
+769;Impact Investing; Investments made with the intention to generate positive social or environmental impact.
+770;Informatics; The study and practice of creating, storing, and managing information.
+771;New Surgical Platforms; Advanced technologies for surgical procedures.
+772;Fintech Partnerships; Collaborations between financial technology companies.
+773;Logistics Facilities; Infrastructure and buildings for managing logistics operations.
+774;PropTech Ventures; Innovative projects in the property technology sector.
+775;New Material Development; Research and development of innovative materials.
+776;New Retail Formats; Modern and innovative approaches to retailing.
+777;Cosmetics Manufacturing; Production of beauty and personal care products.
+778;Health Care Ventures; Innovative projects in the healthcare sector.
+779;Merchant Solutions; Services and technologies for retail and business merchants.
+780;Emerging Technology Ventures; Projects focused on the development of new technologies.
+781;InsurTech Solutions; Innovative technologies for the insurance industry.
+782;Clean Energy Solutions; Technologies and systems for generating energy with minimal environmental impact.
+783;Agri-Business; Businesses involved in agricultural production and services.
+784;Health and Well-being; Products and services that promote health and wellness.
+785;Building Analytics; Technologies for analyzing and optimizing building performance.
+786;New Construction Technologies; Innovative technologies for the construction industry.
+787;Renal Care; Medical services and products for kidney health.
+788;Lifecycle Services; Comprehensive services that support products from development to disposal.
+789;Connected Operations; Integrated systems for managing and optimizing operations.
+790;Nuclear; Technologies and services related to nuclear energy.
+791;Electrical Power Systems; Systems and technologies for generating and distributing electrical power.
+792;FinTech Solutions; Financial technologies to enhance and innovate financial services.
+793;Pension Funds; Investment funds that manage retirement savings.
+794;Sustainable Steel Solutions; Environmentally friendly steel production and processing.
+795;New Steel Ventures; Innovative projects in the steel industry.
+796;Credit Solutions; Financial products and services for managing credit.
+797;New Digital Services; Modern digital services for various applications.
+798;Ancillary Services; Additional services that complement main offerings.
+799;Investments; Allocation of capital with the expectation of future financial returns.
+800;InsurTech Ventures; Innovative projects in the insurance technology sector.
+801;New Energy Businesses; Emerging businesses focused on new energy technologies.
+802;Alcoholic Beverages; Production and sale of alcoholic drinks.
+803;New Beverage Categories; Innovative and new types of beverages.
+804;Port Operations; Management and operation of ports and harbors.
+805;Cruise Technology Solutions; Technologies for enhancing cruise ship operations.
+806;Plant-Based Protein; Protein products derived from plants.
+807;New Food Ventures; Innovative projects in the food industry.
+808;Nutrition Products; Products designed to provide nutritional benefits.
+809;New Dairy Segments; Innovative products and categories in the dairy industry.
+810;Research; Systematic investigation to establish facts and reach new conclusions.
+811;Maintenance Services; Services for maintaining and repairing equipment and infrastructure.
+812;Smart Building Solutions; Technologies for automating and optimizing building operations.
+813;New Industrial Solutions; Innovative products and services for industrial applications.
+814;Intellectual Property; Legal rights and protections for creations and inventions.
+815;Group Benefits; Employee benefits provided by employers to groups of employees.
+816;Machinery; Machines and equipment used in various industries.
+817;New Electrification Solutions; Advanced technologies for electric power applications.
+818;Aftermarket Services; Services for products after the initial sale, including repairs and upgrades.
+819;New Energy Vehicles; Vehicles powered by alternative energy sources.
+820;Index Services; Financial services related to market indices.
+821;Market Technology Solutions; Technologies for financial market operations.
+822;Dry Bulk Shipping; Transportation of bulk commodities by sea.
+823;New Maritime Ventures; Innovative projects in the maritime industry.
+824;Extended Protection Plans; Additional warranty and protection services for products.
+825;Digital Retailing; Online platforms and services for retail operations.
+826;Iron Ore Mining; Extraction of iron ore for industrial use.
+827;New Steel Solutions; Innovative approaches to steel production and applications.
+828;New Materials Development; Research and development of innovative materials.
+829;Semiconductor Display; Technologies for semiconductor-based display systems.
+830;Landfill; Waste management through disposal in landfills.
+831;Diversification into New Energy; Expanding business operations into new energy sectors.
+832;Real Estate Management; Services for managing real estate properties.
+833;Cell Analysis; Technologies for analyzing cellular properties and functions.
+834;Lab Management Solutions; Technologies and services for managing laboratory operations.
+835;Delivery Services; Logistics services for transporting goods to customers.
+836;New Restaurant Concepts; Innovative ideas and business models for the restaurant industry.
+837;Nickel; Mining and processing of nickel for various applications.
+838;New Metals and Mining Ventures; Innovative projects in the metals and mining industry.
+839;Value-Added Services; Services that enhance the value of primary products or offerings.
+840;Cyber Security; Protection of digital systems and data from cyber threats and attacks.
+841;New Aerospace Solutions; Innovative technologies for the aerospace industry.
+842;Automation Systems; Technologies for automating industrial and business processes.
+843;New Factory Automation Solutions; Advanced technologies for automating manufacturing processes.
+844;Risk Consulting; Advisory services for managing and mitigating business risks.
+845;Sports Equipment; Production and sale of equipment for sports and fitness activities.
+846;New Sports and Wellness Offerings; Innovative products and services in the sports and wellness sector.
+847;Offshore Wind; Technologies for generating wind energy in offshore locations.
+848;Military Services; Services related to defense and military operations.
+849;New Water Solutions; Innovative technologies for water management and treatment.
+850;Automotive Services; Comprehensive services for vehicle maintenance and repair.
+851;Sustainable Mobility Solutions; Environmentally friendly transportation technologies.
+852;New Lifestyle and Wellness Offerings; Innovative products and services for lifestyle and wellness.
+853;Digital Banking Services; Online and mobile banking services.
+854;Health and Crop Sciences; Research and products related to health and agricultural sciences.
+855;New Materials and Solutions; Development of new materials and their applications.
+856;New Protein Ventures; Innovative projects focused on alternative protein sources.
+857;Mobile Communications; Services and technologies for mobile communication.
+858;New Internet Services; Innovative online services and platforms.
+859;Gem-Set Jewelry; Jewelry featuring gemstones.
+860;New Luxury Offerings; Innovative products and services in the luxury sector.
+861;Payments; Technologies and services for facilitating financial transactions.
+862;Shipping and Logistics; Comprehensive solutions for the transportation and delivery of goods.
+863;New Venture Capital; Investment funds focused on innovative and emerging businesses.
+864;Aftermarket; Services and products provided after the initial sale, including maintenance and upgrades.
+865;New Propulsion Solutions; Advanced technologies for vehicle and aircraft propulsion.
+866;New Clean Energy Ventures; Innovative projects focused on sustainable and renewable energy sources.
+867;Surgical Monitoring; Technologies for real-time monitoring of patients during surgery.
+868;New Cardiovascular Solutions; Advanced treatments and technologies for cardiovascular health.
+869;New Consumer Offerings; Innovative products and services for consumers.
+870;Medical Imaging Systems; Equipment and technologies for capturing images of the body's interior.
+871;New Healthcare Solutions; Innovative approaches and technologies in healthcare.
+872;Ocular Health; Products and services focused on eye care and vision health.
+873;New Ophthalmic Innovations; Advanced technologies and treatments for eye conditions.
+874;Value-Add Campuses; Integrated campuses offering additional services and amenities.
+875;New Real Estate Ventures; Innovative projects and investments in real estate.
+876;Treasury and Capital Markets; Financial services for managing cash, investments, and capital markets activities.
+877;Online Retail; E-commerce platforms for buying and selling goods and services.
+878;Ground Handling; Services for managing aircraft operations on the ground.
+879;Aviation Services; Comprehensive services for the aviation industry, including maintenance and support.
+880;Cannabis; Products and services related to the cultivation, processing, and sale of cannabis.
+881;Renovation; Services and products for upgrading and improving buildings and structures.
+882;New Housing Solutions; Innovative approaches to housing and residential development.
+883;Manufacturing Operations; Processes and technologies for producing goods.
+884;New Digital Solutions; Advanced digital technologies for various applications.
+885;Institutional Services; Professional services for institutions, including finance and education.
+886;New Investment Solutions; Innovative financial products and strategies for investing.
+887;New Financial Services; Modernized financial services for consumers and businesses.
+888;Bell Helicopters; Manufacturing and servicing of Bell brand helicopters.
+889;Consulting Services; Professional advisory services across various industries.
+890;Destination Services; Comprehensive services for travel destinations, including tours and experiences.
+891;New Travel Experiences; Innovative travel offerings for unique and memorable experiences.
+892;Network Security; Technologies and strategies to protect networks from cyber threats.
+893;New Networking Solutions; Advanced technologies for enhancing network connectivity.
+894;Agri; Products and services related to agriculture.
+895;New Infrastructure Solutions; Innovative approaches to infrastructure development and management.
+896;Plasters and Wound Care; Medical products for treating and protecting wounds.
+897;New Personal Care Products; Innovative products for personal hygiene and care.
+898;Fasteners; Devices and hardware for securely joining materials together.
+899;New Product Lines; Development and launch of new product categories.
+900;Drayage; Short-haul transportation of goods, often related to shipping containers.
+901;Clothing; Manufacturing and sale of apparel.
+902;New Property Solutions; Innovative real estate services and products.
+903;Urbanization Solutions; Technologies and strategies for managing urban growth and development.
+904;New Building Materials; Advanced materials for construction and building projects.
+905;Decorative Paints; Paint products designed for aesthetic finishes.
+906;New Surface Solutions; Innovative technologies for treating and finishing surfaces.
+907;Manufacturing Intelligence; Advanced analytics and AI for optimizing manufacturing processes.
+908;New Digital Realities; Technologies for creating virtual and augmented reality experiences.
+909;Leasing; Services for renting equipment, property, and vehicles.
+910;Robomachine; Advanced robotics and machinery for automation.
+911;New Automation Solutions; Cutting-edge technologies for automating processes and systems.
+912;Financial Solutions; Comprehensive financial products and services.
+913;Defense Products; Technologies and equipment for military applications.
+914;Tourism and Hospitality; Services and products related to travel and accommodation.
+915;Fast Casual Dining; Restaurants offering quick service with high-quality food.
+916;New Mining Ventures; Innovative projects in the mining industry.
+917;New Consumer Products; Development and launch of new goods for consumers.
+918;Senior Housing; Residential options designed for elderly individuals.
+919;New Housing Models; Innovative approaches to residential development and living arrangements.
+920;Retail Refrigeration; Technologies for cooling and preserving products in retail settings.
+921;New Technology Solutions; Advanced tech solutions for various industries.
+922;Town Development; Comprehensive planning and development of new towns and communities.
+923;New Real Estate Offerings; Innovative products and services in the real estate market.
+924;Centrica Business Solutions; Energy solutions and services for businesses by Centrica.
+925;New Mining Projects; Development of new mining operations and sites.
+926;Fragrance Ingredients; Production and sale of ingredients for fragrances.
+927;New Sensory Experiences; Innovative products and services that enhance sensory experiences.
+928;Data and Insights; Analysis and insights derived from data.
+929;New Financial Technology; Advanced technologies for the financial industry.
+930;Energy Transition; Strategies and technologies for transitioning to sustainable energy sources.
+931;New Technology Offerings; Introduction of new technological products and services.
+932;Health and Protection; Comprehensive health and safety products and services.
+933;New Financial Solutions; Innovative approaches to financial services.
+934;Active Pharmaceutical Ingredients; Production of essential components for pharmaceuticals.
+935;Finance Solutions; Comprehensive financial products and services for businesses and individuals.
+936;Space Systems; Technologies and services for space exploration and operations.
+937;Media and Streaming; Platforms and services for distributing digital media content.
+938;Artist Services; Support and services for artists, including management and promotion.
+939;Industrial Gases; Production and distribution of gases for industrial applications.
+940;New Industrial Ventures; Innovative projects in the industrial sector.
+941;New Optical Solutions; Advanced technologies for optics and vision.
+942;Memory Care; Services and products for individuals with memory impairments.
+943;New Healthcare Real Estate; Development of real estate for healthcare facilities.
+944;Sponsorship; Funding and support for events, organizations, and individuals.
+945;New Mobility Offerings; Innovative transportation solutions for modern mobility needs.
+946;Modernization; Updating and improving existing systems and infrastructure.
+947;New Urban Mobility Solutions; Advanced technologies for urban transportation.
+948;Brake and Chassis; Components and systems for vehicle braking and chassis.
+949;Dairy; Production and processing of milk and dairy products.
+950;Infrastructure Development; Planning and construction of infrastructure projects.
+951;New Rail Solutions; Advanced technologies for rail transportation.
+952;Financial Inclusion; Providing financial services to underserved populations.
+953;Investment Trust; Investment funds that pool money from investors to buy securities.
+954;International Operations; Management of business activities across multiple countries.
+955;New Aviation Solutions; Innovative technologies for the aviation industry.
+956;Travel and Hospitality; Services and products related to travel and accommodation.
+957;DesignWare; Tools and technologies for designing and developing products.
+958;New Silicon Solutions; Advanced semiconductor technologies.
+959;New Connectivity Solutions; Technologies for enhancing digital connectivity.
+960;Logistics and Retail; Integration of logistics services with retail operations.
+961;New Business Ventures; Innovative projects and startups in various industries.
+962;Carbon Fiber; Production and application of carbon fiber materials.
+963;New Advanced Materials; Development of high-performance materials for various applications.
+964;Subscription Services; Business models offering products or services on a subscription basis.
+965;Investment Products; Financial instruments for investment purposes.
+966;Logistics Properties; Real estate and facilities for logistics operations.
+967;Security Operations; Services for protecting people, property, and information.
+968;New Security Platforms; Advanced technologies for enhancing security.
+969;City-gas Projects; Infrastructure for supplying gas to urban areas.
+970;New Grid Solutions; Advanced technologies for modernizing electrical grids.
+971;Exploration and Production; Activities related to the discovery and extraction of natural resources.
+972;Construction; Building and infrastructure development services.
+973;New Steel and Industrial Solutions; Innovative approaches to steel production and industrial applications.
+974;New Automotive Solutions; Advanced technologies and products for the automotive industry.
+975;New Connectivity Services; Modern services for enhancing digital connectivity.
+976;New Rail Technologies; Cutting-edge technologies for rail transportation.
+977;Cloud; Internet-based computing services and storage.
+978;Systems; Integrated technologies for various applications.
+979;Electric Transmission; Technologies for transmitting electrical power.
+980;Consumer Services; Services designed to meet the needs of individual consumers.
+981;New Data and Analytics Offerings; Advanced tools for data analysis and insights.
+982;Building Renovation; Services for updating and improving buildings.
+983;New Construction Solutions; Innovative technologies and methods for construction.
+984;RIA Custodial Services; Custodial services for registered investment advisors.
+985;New Wealth Management Solutions; Modern approaches to managing wealth.
+986;Skin Care and Hair Care; Products and services for skin and hair health.
+987;Salvage Services; Recovery of usable materials from damaged or discarded items.
+988;New Power Solutions; Advanced technologies for generating and managing power.
+989;Consumer Packaged Goods; Products packaged for retail sale to consumers.
+990;New Hospitality Concepts; Innovative approaches to the hospitality industry.
+991;Computational Software; Software for performing complex calculations and data analysis.
+992;New Design Solutions; Advanced tools and methods for product design.
+993;New Drug R&D Services; Innovative services for drug research and development.
+994;Retail and Consumer Services; Comprehensive services for retail and consumer markets.
+995;New Business Development; Strategies and initiatives for developing new business opportunities.
+996;Renewable Integration; Technologies for integrating renewable energy sources into the grid.
+997;New Energy Technology; Advanced technologies for energy production and management.
+998;Steel Processing; Techniques for processing steel into usable products.
+999;Asphalt and Paving; Production and application of asphalt for roads and surfaces.
+1000;New Construction Materials; Innovative materials for building and construction.
+1001;Therapeutic Solutions; Advanced treatments and therapies for medical conditions.
+1002;New Healthcare Technologies; Cutting-edge technologies for healthcare applications.
+1003;New Convergence Services; Integrated services combining multiple technologies.
+1004;Crypto Investing Products; Financial products for investing in cryptocurrencies.
+1005;New Crypto Solutions; Advanced technologies for cryptocurrency applications.
+1006;Recyclables; Materials that can be recycled for reuse.
+1007;New Sustainable Materials; Environmentally friendly materials for various applications.
+1008;Services; Professional services across various industries.
+1009;E-Commerce; Online platforms for buying and selling goods and services.
+1010;New Food and Beverage Offerings; Innovative products in the food and beverage industry.
+1011;New Retirement Solutions; Modern approaches to retirement planning and services.
+1012;New Digital Infrastructure; Advanced technologies for building and managing digital networks.
+1013;Sports Timing; Technologies for accurately timing and measuring sports events.
+1014;Risk Solutions; Comprehensive services for identifying and managing risks.
+1015;New Risk Management Services; Innovative approaches to risk assessment and mitigation.
+1016;Airport IT Solutions; Technologies for managing airport operations and services.
+1017;New Travel Tech Offerings; Advanced technologies for enhancing travel experiences.
+1018;Advertising and Media; Services for promoting and distributing media content.
+1019;New Travel Platforms; Modern online platforms for booking and managing travel.
+1020;Snacks; Production and sale of snack foods.
+1021;New Digital Information Products; Innovative digital products for managing and disseminating information.
+1022;Fixed Income; Financial products that provide regular income, such as bonds.
+1023;New Trade Services; Modern services for facilitating international trade.
+1024;Auto and Lease Financing; Financial products for purchasing and leasing vehicles.
+1025;Animal Health Products; Products for maintaining and improving animal health.
+1026;New Biomedical Solutions; Advanced technologies for medical and biological applications.
+1027;Consumer Electronics; Devices and gadgets for personal and home use.
+1028;Voice and Collaboration; Technologies for voice communication and collaboration.
+1029;New Network Solutions; Modern technologies for enhancing network performance.
+1030;Modular Solutions; Prefabricated components for various applications.
+1031;Automotive Logistics; Services for managing the transportation of automotive products.
+1032;Private Asset Solutions; Financial products and services for managing private assets.
+1033;New Data and Technology Products; Innovative data management and technology solutions.
+1034;Population and Data Solutions; Technologies for managing population data and analytics.
+1035;New Material Solutions; Advanced materials for industrial and consumer applications.
+1036;Adjacent Ventures; New business ventures in related industries.
+1037;New Beverage Offerings; Innovative drinks and beverages.
+1038;Parts and Services; Components and services for maintaining and repairing products.
+1039;New AgTech Solutions; Advanced technologies for agricultural production.
+1040;Securities; Financial instruments representing ownership or debt.
+1041;Media and Entertainment Solutions; Comprehensive services for the media and entertainment industry.
+1042;Chlor-Alkali Chemicals; Production of chemicals like chlorine and sodium hydroxide.
+1043;New Chemical Products; Innovative chemical substances for various applications.
+1044;New Energy Services; Modern services for managing and optimizing energy use.
+1045;Residential Services; Comprehensive services for residential properties.
+1046;New Maritime Solutions; Advanced technologies for the maritime industry.
+1047;Global Payments; International payment services and solutions.
+1048;New Fintech Solutions; Innovative financial technologies for various applications.
+1049;Digital Capabilities; Advanced digital tools and services for businesses.
+1050;Convergence Software; Software that integrates multiple functions and services.
+1051;Craniomaxillofacial and Thoracic; Medical solutions for cranial, maxillofacial, and thoracic conditions.
+1052;New Medical Solutions; Advanced healthcare products and services.
+1053;HSA Bank; Health savings account services.
+1054;Out-of-Hospital Software; Technologies for managing healthcare outside of traditional hospital settings.
+1055;New Digital Health Offerings; Innovative digital products and services for healthcare.
+1056;Private Infrastructure; Investments and services for private infrastructure projects.
+1057;New Material Innovations; Research and development of new materials.
+1058;New Financial Wellness Offerings; Modern approaches to financial health and wellness.
+1059;Cleaning and Hygiene; Products and services for maintaining cleanliness and hygiene.
+1060;New Supply Solutions; Advanced logistics and supply chain services.
+1061;New Insurance Products; Innovative insurance offerings for various needs.
+1062;Food Retail Solutions; Technologies and services for the food retail industry.
+1063;Video Games; Development and distribution of video games.
+1064;Publishing and Live Entertainment; Services for publishing content and producing live events.
+1065;New Fiber-Based Solutions; Advanced materials derived from fibers.
+1066;Precision Machinery; High-accuracy machinery for industrial applications.
+1067;Environmental Protection Equipment; Technologies for protecting the environment.
+1068;Live Audio; Technologies for live audio production and broadcasting.
+1069;New Audio Experiences; Innovative products and services for audio.
+1070;New Energy Materials; Advanced materials for energy production and storage.
+1071;New Online Gaming Offerings; Modern online gaming platforms and services.
+1072;Medicare Supplements; Additional insurance products for Medicare recipients.
+1073;Merchant Banking; Financial services for businesses, including lending and investment.
+1074;New Entertainment Offerings; Innovative products and services in the entertainment sector.
+1075;Packaged Logistics Solutions; Comprehensive logistics services for packaged goods.
+1076;New Logistics Services; Modern logistics and supply chain services.
+1077;IP Creation; Development and protection of intellectual property.
+1078;New Entertainment Solutions; Advanced technologies for the entertainment industry.
+1079;Employee Experience; Services and technologies to enhance employee satisfaction and productivity.
+1080;New Digital Workflows; Modern digital tools for managing business processes.
+1081;Calcium Products; Production and distribution of calcium-based products.
+1082;NRI Services; Services for non-resident Indians, including financial and real estate.
+1083;Power and Gas; Technologies for managing power and gas distribution.
+1084;Professional and Support Services; Comprehensive services for businesses, including consulting and support.
+1085;New Data Solutions; Advanced data management and analytics products.
+1086;Individual Life; Life insurance products for individuals.
+1087;New Financial Wellness Solutions; Modern approaches to personal financial health.
+1088;New Technology Platforms; Advanced platforms for various technological applications.
+1089;Mineral Resources Development; Exploration and development of mineral resources.
+1090;Reinhart Foodservice; Distribution of food products and supplies.
+1091;New Food Solutions; Innovative approaches to food production and distribution.
+1092;Packaging Equipment; Machinery for packaging goods.
+1093;New Packaging Solutions; Advanced technologies for product packaging.
+1094;United Surgical Partners International; Healthcare services and surgical facilities.
+1095;New Healthcare Services; Modernized healthcare products and services.
+1096;New E-Commerce Solutions; Advanced platforms for online retail.
+1097;Processed Foods; Production and sale of pre-packaged food products.
+1098;New Food and Bio Solutions; Innovative approaches to food and biotechnology.
+1099;Ophthalmic Diagnostics; Technologies for diagnosing eye conditions.
+1100;New Veterinary Solutions; Advanced products and services for animal health.
+1101;System Integration; Technologies and services for integrating various systems.
+1102;CT REIT; Real estate investment trust focused on commercial properties.
+1103;New Services and Products; Innovative offerings in various industries.
+1104;Peer Networking; Platforms and services for professional networking.
+1105;New Sustainable Solutions; Environmentally friendly products and practices.
+1106;Information Services; Technologies for managing and disseminating information.
+1107;New Exchange Offerings; Modern financial exchange platforms.
+1108;New Entertainment Experiences; Innovative approaches to entertainment.
+1109;Bioengineering Products; Advanced products for biological and medical applications.
+1110;New Bioscience Solutions; Innovative technologies for biological sciences.
+1111;Insurance Services; Comprehensive insurance products and services.
+1112;Geographic Information Services; Technologies for managing and analyzing geographic data.
+1113;New Marine Solutions; Advanced technologies for maritime applications.
+1114;New Transportation Solutions; Modern approaches to transportation and logistics.
+1115;New Real Estate Solutions; Innovative products and services for the real estate market.
+1116;New Metals and Materials; Advanced materials for industrial applications.
+1117;Uncoated Fine Paper; Production of high-quality uncoated paper products.
+1118;New Steel Offerings; Innovative steel products and solutions.
+1119;New Insurance Solutions; Modern insurance products for various needs.
+1120;New Business Incubation; Support and development services for startups.
+1121;New Digital Financial Services; Advanced financial services delivered digitally.
+1122;Commercial and Industrial Panels; Production of panels for commercial and industrial use.
+1123;New Display Technologies; Advanced technologies for electronic displays.
+1124;Shipping Transportation; Services for transporting goods by sea.
+1125;New Cable Solutions; Modern cable technologies for various applications.
+1126;Technology; Comprehensive services and products in the tech industry.
+1127;New Steel Products; Innovative approaches to steel manufacturing.
+1128;New Renewable Solutions; Advanced technologies for renewable energy.
+1129;New Software Solutions; Modern software applications for various needs.
+1130;New Battery Materials; Advanced materials for battery production.
+1131;New Agri-Food Solutions; Innovative technologies for agriculture and food production.
+1132;New Diversified Solutions; Comprehensive solutions across multiple industries.
+1133;Promotions and Events; Services for managing and promoting events.
+1134;New Marketing Platforms; Modern tools for marketing and advertising.
+1135;Supporting Infrastructure; Services and technologies for infrastructure development.
+1136;New Energy Initiatives; Innovative projects in the energy sector.
+1137;Payment Systems; Technologies for managing financial transactions.
+1138;New Financial Infrastructure; Advanced infrastructure for financial services.
+1139;Maritime Services ; Comprehensive services for the shipping and maritime industries.
+1140;Trading and Brokerage; Financial services for trading and investment.
+1141;Trust Banking; Banking services that include managing trusts and estates.
